@@ -13,6 +13,16 @@ body{
 
 #cover-frame{
   width: 100%;
+  z-index: 100;
+}
+
+#video-marsha{
+  width: 95%;
+  position: absolute;
+  left: 0;
+  margin-top: 5%;
+  z-index: -1;
+
 }
 
 #tag-img{
